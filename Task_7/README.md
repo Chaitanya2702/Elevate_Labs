@@ -1,4 +1,4 @@
-# Task 6 - Support Vector Machines (SVM) Classification
+# Support Vector Machines (SVM) Classification
 
 ## 📌 Objective
 The goal of this task is to **implement Support Vector Machines (SVM)** for **linear** and **non-linear classification**.  
@@ -55,3 +55,4 @@ This is a binary classification dataset with features related to tumor measureme
 - Hyperparameter tuning significantly improves model accuracy.
 
 ---
+
